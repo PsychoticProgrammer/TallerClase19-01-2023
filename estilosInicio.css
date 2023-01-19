@@ -1,5 +1,5 @@
 header div {
-    background-color: rgb(144, 215, 74);
+    background-color: rgb(69, 125, 13);
 }
 
 .section{
@@ -9,4 +9,9 @@ header div {
 
 .centered{
     text-align: center;
+}
+
+.fixed_div{
+    width: 50%;
+    display: inline-block;
 }
