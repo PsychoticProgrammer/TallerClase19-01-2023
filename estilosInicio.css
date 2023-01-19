@@ -1,0 +1,12 @@
+header div {
+    background-color: rgb(144, 215, 74);
+}
+
+.section{
+    background-color: rgb(153, 219, 88);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.centered{
+    text-align: center;
+}
